@@ -50,14 +50,3 @@ This repository contains SQL queries and solutions for weekly lab exercises in t
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ShamScripts/DBMS.git
-   ```
-2. Navigate to the folder for the week you'd like to explore.
-3. Execute the SQL queries using your preferred SQL client (MySQL Workbench, SQLite, PostgreSQL, etc.).
-
-
